@@ -1,0 +1,15 @@
+.Main__container {
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 1.3rem;
+}
+
+.Main__add {
+  display: inline-block;
+  background-color: green;
+  color: #fff;
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 10px 15px;
+  text-decoration: none;
+}

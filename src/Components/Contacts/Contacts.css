@@ -1,0 +1,24 @@
+table {
+  margin: 2rem;
+  width: 100%;
+  color: #3c3c3c;
+}
+
+tr,
+td {
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+}
+td {
+  width: 33%;
+}
+
+.Contacts__delete {
+  font-size: inherit;
+  background-color: red;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 10px 15px;
+  cursor: pointer;
+}
